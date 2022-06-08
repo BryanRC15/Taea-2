@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.links {
+    color: white;
+}
+.legenda{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0px 20px;
+    line-height: 80px;
+    
+}
+.h3{    
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0px 20px;
+
+}
+.cuerpo{
+    background-color: #ffffcc; 
+    font-family: sans-serif;
+}
+.p {
+    padding: 0px 20px;
+    font-size: 23px;
+}
+.f {
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+.encabezado {
+    background-color: #A25B5B;
+    height: 90px;
+    width: 100%;
+    position: fixed;
+}
+.footer{
+    background-color: #A25B5B;
+    height: 65px;
+    width: 100%
+}
+
+.navegacion {
+    max-width: 100px;
+    padding: 20px 20px;
+    line-height: 40px;
+    
+}
+.navegacion2 {
+    display: flex;
+    max-width: 3000px;
+    padding: 0px 500px;
+    position: fixed;
+    background-color: #ffffcc;
+    line-height: 10px;
+    color: black;
+}
+.logotipo {
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: lighter;
+    padding: 0px 20px;
+    line-height: 80px;
+}
+
